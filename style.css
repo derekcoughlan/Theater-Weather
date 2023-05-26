@@ -19,7 +19,7 @@ body{
     display: block;
     border-collapse: separate;
     border-spacing: 1px 10px;
-    height: 640px;
+    height: 640px; 
     overflow-y: scroll;
 }
 
@@ -38,7 +38,12 @@ tr:nth-of-type(even) {
     background-color: #f24646;
 }
 
-/* Add background to .container
-background: rgb(234 234 234);
-    background-color: black;
-    border-radius: 15px; */
+::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 7px;
+  }
+  ::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    background-color: white;
+    -webkit-box-shadow: 0 0 1px rgba(255, 255, 255, .5);
+  }
