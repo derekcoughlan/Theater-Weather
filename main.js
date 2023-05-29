@@ -1,5 +1,24 @@
 let myKey = config.APIkey;
 
+function filterWeather(){
+    const input = document.getElementById("myInput");
+    const filter = input.value.toLowerCase();
+    const table = document.getElementById("myTable");
+    const tr = table.getElementsByTagName("tr");
+
+    for (let i = 0; i < tr.length; i++){
+        let td = tr[i].getElementsByTagName("td")[2];
+        if (td) {
+            txtValue = td.innerText;
+            if (txtValue.toLowerCase().indexOf(filter) > -1){
+                tr[i].style.display = "";
+            } else {
+                tr[i].style.display = "none";
+            }
+        }
+    }
+}
+
 function addTheaterTableRow(){
     fetch('theaters.json')
     .then(response => response.json())
