@@ -1,10 +1,12 @@
+let myKey = config.APIkey;
+
 function addTheaterTableRow(){
     fetch('theaters.json')
     .then(response => response.json())
     .then(data => {
         theaterData = data;
         theaterData.forEach(element => {
-            fetch(`https://api.openweathermap.org/data/2.5/weather?q=${element.City}&units=imperial&appid=3ed4321b20cef4195e1946e377b41033`)
+            fetch(`https://api.openweathermap.org/data/2.5/weather?q=${element.City}&units=imperial&appid=${myKey}`)
             .then(response => response.json())
             .then(weather => {  
             let table = document.getElementById('myTable');
