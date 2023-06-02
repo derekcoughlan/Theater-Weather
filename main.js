@@ -1,4 +1,4 @@
-let myKey = config.APIkey;
+const myKey = config.APIkey;
 
 function filterWeather(){
     const input = document.getElementById("myInput");
@@ -23,8 +23,7 @@ function addTheaterTableRow(){
     fetch('theaters.json')
     .then(response => response.json())
     .then(data => {
-        theaterData = data;
-        theaterData.forEach(element => {
+        data.forEach(element => {
             fetch(`https://api.openweathermap.org/data/2.5/weather?q=${element.City}&units=imperial&appid=${myKey}`)
             .then(response => response.json())
             .then(weather => {  
@@ -42,7 +41,7 @@ function addTheaterTableRow(){
         })
     })
     .catch(error => {
-        document.getElementById('theaterInfo').innerHTML = "Error"
+        document.getElementById('myTable').innerText = "Data Error"
     })
 }
 
