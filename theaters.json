@@ -2,241 +2,134 @@
         {
          "Theater": "AMC Century City 15 IMAX DOLBY &amp; PRIME",
          "City": "Los Angeles",
-         "State": " CA"
+         "State": " CA",
+         "id": "5368361",
+         "currentGross": "25000"
         },
         {
          "Theater": "Harkins Arrowhead Fountains 18",
          "City": "Peoria",
-         "State": " AZ"
+         "State": " AZ",
+         "id": "5308480",
+         "currentGross": "24000"
         },
         {
          "Theater": "Harkins Scottsdale 101 &amp; Cine Capri 14",
          "City": "Phoenix",
-         "State": " AZ"
+         "State": " AZ",
+         "id": "5308655",
+         "currentGross": "23000"
         },
         {
          "Theater": "AMC Burbank 16 IMAX DOLBY &amp; PRIME",
          "City": "Burbank",
-         "State": " CA"
+         "State": " CA",
+         "id": "5331835",
+         "currentGross": "22000"
         },
         {
          "Theater": "Harkins Estrella Falls 16 &amp; Cine 1",
          "City": "Goodyear",
-         "State": " AZ"
+         "State": " AZ",
+         "id": "5296266",
+         "currentGross": "21000"
         },
         {
          "Theater": "Cinemark Palace 21 XD - Boca Raton",
          "City": "Boca Raton",
-         "State": " FL"
+         "State": " FL",
+         "id": "4148411",
+         "currentGross": "20000"
         },
         {
          "Theater": "Harkins Camelview at Fashion Square 14",
          "City": "Scottsdale",
-         "State": " AZ"
+         "State": " AZ",
+         "id": "5313457",
+         "currentGross": "11000"
         },
         {
          "Theater": "Harkins SanTan Village 16 &amp; Cine 1",
-         "City": "Gilbert",
-         "State": " AZ"
+         "City": "Gilbert", 
+         "State": " AZ",
+         "id": "5295903",
+         "currentGross": "14000"
         },
         {
          "Theater": "AMC Americana at Brand 18 IMAX DOLBY &amp; PRIME",
-         "City": "Glendale",
-         "State": " CA"
+         "City": "Glendale", 
+         "State": " CA",
+         "id": "5352423",
+         "currentGross": "2000"
         },
         {
          "Theater": "AMC Lincoln Square 13 IMAX &amp; Dolby",
-         "City": "New York",
-         "State": " NY"
+         "City": "New York", 
+         "State": " NY",
+         "id": "5128581",
+         "currentGross": "5000"
         },
         {
          "Theater": "Cinemark West Plano 20 XD (dual)",
-         "City": "Plano",
-         "State": " TX"
+         "City": "Plano", 
+         "State": " TX",
+         "id": "4719457",
+         "currentGross": "250000"
         },
         {
          "Theater": "California Oaks 17 TITAN",
          "City": "Murrieta",
-         "State": " CA"
+         "State": " CA",
+         "id": "5375911",
+         "currentGross": "7000"
         },
         {
          "Theater": "AMC Grove 14 IMAX DOLBY &amp; PRIME",
-         "City": "Los Angeles",
-         "State": " CA"
+         "City": "Los Angeles", 
+         "State": " CA",
+         "id": "5368361",
+         "currentGross": "16000"
         },
         {
          "Theater": "Santikos Palladium 19 AVX &amp; IMAX (16 scrns)",
          "City": "San Antonio",
-         "State": " TX"
+         "State": " TX",
+         "id": "4726206",
+         "currentGross": "28000"
         },
         {
          "Theater": "Cinemark Durbin Park 12 &amp; XD",
          "City": "St. Johns",
-         "State": " FL"
+         "State": " FL",
+         "id": "4165565",
+         "currentGross": "13000"
         },
         {
          "Theater": "AMC Dine-In Thoroughbred 20 IMAX &amp; DOLBY",
          "City": "Franklin",
-         "State": " TN"
+         "State": " TN",
+         "id": "4292193",
+         "currentGross": "1000"
         },
         {
          "Theater": "Harkins Mountain Grove 16 &amp; Cine 1",
-         "City": "Redlands",
-         "State": " CA"
+         "City": "Redlands", 
+         "State": " CA",
+         "id": "5386754",
+         "currentGross": "750"
         },
         {
          "Theater": "Cinepolis Laguna Niguel 7",
-         "City": "Laguna Niguel",
-         "State": " CA"
+         "City": "Laguna Niguel", 
+         "State": " CA",
+         "id": "5364329",
+         "currentGross": "24000"
         },
         {
          "Theater": "AMC Dine-In Disney Springs 24 &amp; DOLBY",
-         "City": "Lake Buena Vista",
-         "State": " FL"
-        },
-        {
-         "Theater": "AMC Topanga 12 IMAX &amp; DOLBY",
-         "City": "Canoga Park",
-         "State": " CA"
-        },
-        {
-         "Theater": "Cinemark 20 Huntington Beach &amp; XD (dual) DBOX",
-         "City": "Huntington Beach",
-         "State": " CA"
-        },
-        {
-         "Theater": "Tinseltown North Canton 15 XD",
-         "City": "North Canton",
-         "State": " OH"
-        },
-        {
-         "Theater": "Cinemark Century Blue Oaks 16 &amp; XD",
-         "City": "Rocklin",
-         "State": " CA"
-        },
-        {
-         "Theater": "AMC Porter Ranch 9 DOLBY &amp; PRIME",
-         "City": "Porter Ranch",
-         "State": " CA"
-        },
-        {
-         "Theater": "The Lot Fashion Island 7",
-         "City": "Newport Beach",
-         "State": " CA"
-        },
-        {
-         "Theater": "Warren 15 IMAX RPX 4DX Grand Balconies &amp; Director",
-         "City": "Moore",
-         "State": " OK"
-        },
-        {
-         "Theater": "Harkins Chandler Fashion Center 20 &amp; Cine 1",
-         "City": "Chandler",
-         "State": " AZ"
-        },
-        {
-         "Theater": "Harkins Cerritos 16 &amp; Cine1",
-         "City": "Cerritos",
-         "State": " CA"
-        },
-        {
-         "Theater": "Cinemark Century 20 Oakridge &amp; XD (dual) DBOX",
-         "City": "San Jose",
-         "State": " CA"
-        },
-        {
-         "Theater": "Cinemark North McKinney 14 XD",
-         "City": "McKinney",
-         "State": " TX"
-        },
-        {
-         "Theater": "iPic One Colorado Pasadena 6",
-         "City": "Pasadena",
-         "State": " CA"
-        },
-        {
-         "Theater": "Cinemark Majestic Stadium 18",
-         "City": "Meridian",
-         "State": " ID"
-        },
-        {
-         "Theater": "Cinemark Lincoln Square Cinemas 16 IMAX",
-         "City": "Bellevue",
-         "State": " WA"
-        },
-        {
-         "Theater": "Cinemark Century La Quinta 12 &amp; XD",
-         "City": "La Quinta",
-         "State": " CA"
-        },
-        {
-         "Theater": "Regal Irvine Spectrum 21 IMAX RPX ScreenX 4DX 15",
-         "City": "Irvine",
-         "State": " CA"
-        },
-        {
-         "Theater": "Century Rio 24 XD - Albuquerque",
-         "City": "Albuquerque",
-         "State": " NM"
-        },
-        {
-         "Theater": "AMC Kips Bay 15 IMAX",
-         "City": "New York",
-         "State": " NY"
-        },
-        {
-         "Theater": "Cinemark American Fork 12",
-         "City": "American Fork",
-         "State": " UT"
-        },
-        {
-         "Theater": "Landmark at Merrick Park 7",
-         "City": "Coral Gables",
-         "State": " FL"
-        },
-        {
-         "Theater": "Galaxy Riverbank 12  DFX + IMAX",
-         "City": "Riverbank",
-         "State": " CA"
-        },
-        {
-         "Theater": "AMC Freehold 14",
-         "City": "Freehold",
-         "State": " NJ"
-        },
-        {
-         "Theater": "Palladio 16 Cinemas",
-         "City": "Folsom",
-         "State": " CA"
-        },
-        {
-         "Theater": "Megaplex 18 at Thanksgiving Point PlatinumX DBOX",
-         "City": "Lehi",
-         "State": " UT"
-        },
-        {
-         "Theater": "AMC Highlands Ranch 24 IMAX &amp; DOLBY",
-         "City": "Highlands Ranch",
-         "State": " CO"
-        },
-        {
-         "Theater": "Cobb Cinebistro 7 @ Westfield Southgate",
-         "City": "Sarasota",
-         "State": " FL"
-        },
-        {
-         "Theater": "AMC Tustin 14 @ The District DOLBY &amp; PRIME",
-         "City": "Tustin",
-         "State": " CA"
-        },
-        {
-         "Theater": "AMC Universal Citywalk Stadium 19 IMAX",
-         "City": "Universal City",
-         "State": " CA"
-        },
-        {
-         "Theater": "Cinemark Tinseltown 20 XD - El Paso",
-         "City": "El Paso",
-         "State": " TX"
-        }  
+         "City": "Lake Buena Vista", 
+         "State": " FL",
+         "id": "4167147",
+         "currentGross": "18000"
+        }   
 ]

@@ -8,7 +8,7 @@
         <title>Movie Theaters - Weather</title>
     </head>
     <body>
-        <h1>Movie Theaters Playing John Wick 4 - 6/1/23</h1>
+        <h1>Movie Theaters Currently Playing John Wick 4</h1>
         <form>
             <input type="text" id="myInput" onkeyup="filterWeather()" placeholder="Search by weather description...">
         </form>
@@ -20,6 +20,7 @@
                         <th scope="col">Location</th>
                         <th scope="col">Weather Description</th>
                         <th scope="col">Temperature</th>
+                        <th onclick="sortByGross()" id="gross">Current Gross ▾</th>
                     </tr>
                 </thead>
                 <tbody>

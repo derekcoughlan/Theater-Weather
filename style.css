@@ -40,12 +40,13 @@ body{
     border-spacing: 1px 10px;
     height: 640px; 
     overflow-y: scroll;
+    margin-top: 0;
 }
 
 .myTable th {
     background-color: black;
     position: sticky;
-    top: 0;
+    margin-top: 0;
     padding: 8px
 }
 
@@ -58,11 +59,14 @@ tr:nth-of-type(even) {
 }
 
 ::-webkit-scrollbar {
-    -webkit-appearance: none;
     width: 7px;
   }
   ::-webkit-scrollbar-thumb {
     border-radius: 4px;
     background-color: white;
-    -webkit-box-shadow: 0 0 1px rgba(255, 255, 255, .5);
+  }
+
+  #gross:hover {
+    text-decoration: underline;
+    cursor: pointer;
   }
